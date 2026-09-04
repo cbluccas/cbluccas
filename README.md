@@ -1,4 +1,19 @@
-## Hi there 👋
+## Olá, eu sou o Lucas!
+
+*Desenvolvimento focado em back-end*
+
+## Sobre mim
+-estudante de Análise e Desenvolvimento de Sistemas na Anhembi Morumbi
+
+
+-Atualmente aprendendendo Banco de Dados e Garantia e Qualidade de Sotfware.
+
+
+-Buscando oportunidade de estágio
+
+Contatos: https://www.linkedin.com/in/lucaschagasbrito/
+
+
 
 <!--
 **cbluccas/cbluccas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
